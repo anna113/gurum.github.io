@@ -1,0 +1,61 @@
+baseURL: "https://gurum.github.io/"
+title: "Gurum Tech Blog" # 블로그 이름 
+theme: "PaperMod"
+languageCode: "ko-kr"
+defaultContentLanguage: "ko"
+
+# 1. 검색 기능을 위한 설정 (Fuse.js)
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # 검색 인덱스 생성용
+
+params:
+  # 테마 기본 설정
+  defaultTheme: auto
+  ShowReadingTime: true # 읽는 시간 표시
+  ShowShareButtons: true # 공유 버튼
+  ShowPostNavLinks: true # 7. 하단 다음/이전 포스트 이동
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true # 4. 코드 복사 버튼
+
+  # 2. 메인 화면 프로필 설정
+  profileMode:
+    enabled: true
+    title: "Gurum"
+    subtitle: "IT Tech Note"
+    # imageUrl: "<이미지경로>" 
+    # buttons:
+    #   - name: Github
+    #     url: "https://github.com/[본인아이디]"
+
+  # 6. 댓글 기능 (Giscus 추천: GitHub Discussion 기반이라 개발자 블로그에 최적)
+  comments: true 
+
+  # 8. 애드센스 및 분석 (나중에 ID 발급 후 입력)
+  # googleAnalytics: "G-XXXXXXXXXX" 
+
+# 3. 메뉴 설정 (카테고리, 태그, 검색 버튼)
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+# 4. 코드 하이라이팅 설정 (Chroma)
+markup:
+  highlight:
+    noClasses: false
+    style: "dracula" # 개발자가 선호하는 어두운 테마
+    lineNos: true # 라인 넘버 표시
+    tabWidth: 4
