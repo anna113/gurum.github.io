@@ -44,21 +44,6 @@
     <loc>http://localhost:1313/categories/web-development/</loc>
     <lastmod>2026-02-13T09:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/devops/</loc>
-    <lastmod>2026-02-11T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/git/</loc>
-    <lastmod>2026-02-11T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/git/</loc>
-    <lastmod>2026-02-11T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2026-02-11T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tutorial/</loc>
-    <lastmod>2026-02-11T09:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

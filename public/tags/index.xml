@@ -43,19 +43,5 @@
       <guid>http://localhost:1313/tags/virtual-dom/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
-      <pubDate>Wed, 11 Feb 2026 09:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/tags/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Wed, 11 Feb 2026 09:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

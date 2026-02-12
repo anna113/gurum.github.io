@@ -1,4 +1,4 @@
-{{- if not .Site.IsServer -}}
+{{- if not hugo.IsServer -}}
   {{- with os.Getenv "HUGO_GOOGLEANALYTICS" -}}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
     <script>
