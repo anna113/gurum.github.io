@@ -15,10 +15,19 @@ params:
   # 테마 기본 설정
   defaultTheme: auto
   ShowReadingTime: true # 읽는 시간 표시
-  ShowShareButtons: false # 공유 버튼
+  ShowShareButtons: true # 공유 버튼
   ShowPostNavLinks: true # 7. 하단 다음/이전 포스트 이동
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true # 4. 코드 복사 버튼
+  # ShareButtons:
+  #   - name: KakaoTalk
+  #     url: "https://sharer.kakao.com/talk/friends/picker/link?url=%s"
+  #   - name: X
+  #     url: "https://twitter.com/intent/tweet?url=%s&text=%s"
+  #   - name: Facebook
+  #     url: "https://facebook.com/sharer/sharer.php?u=%s"
+  #   - name: LinkedIn
+  #     url: "https://www.linkedin.com/shareArticle?mini=true&url=%s&title=%s&summary=%s&source=%s"
 
   # 2. 메인 화면 프로필 설정
   profileMode:
