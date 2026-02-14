@@ -21,6 +21,10 @@ params:
   ShowPostNavLinks: true # 7. 하단 다음/이전 포스트 이동
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true # 4. 코드 복사 버튼
+  showFullContents: false
+  summaryLength: 50
+  hideSummary: false
+  disableSpecial1stPost: true
   # ShareButtons:
   #   - name: KakaoTalk
   #     url: "https://sharer.kakao.com/talk/friends/picker/link?url=%s"
@@ -33,13 +37,14 @@ params:
 
   # 2. 메인 화면 프로필 설정
   profileMode:
-    enabled: true
+    enabled: false
     title: "Qooing IT Tech Note"
     subtitle: "Coding + Doing = Qooing"
     # imageUrl: "<이미지경로>" 
     # buttons:
     #   - name: Github
     #     url: "https://github.com/[본인아이디]"
+  homeInfoParams:
 
   # 6. 댓글 기능 (Giscus 추천: GitHub Discussion 기반이라 개발자 블로그에 최적)
   comments: true 
