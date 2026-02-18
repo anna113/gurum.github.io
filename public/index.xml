@@ -6,8 +6,21 @@
     <description>Recent content in Qooing IT Tech Note on Qooing Tech Blog</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 13 Feb 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[React 정복기 #03] HTML인 척하는 자바스크립트? JSX 문법 완벽 가이드</title>
+      <link>http://localhost:1313/posts/react/react-tutorial-03/</link>
+      <pubDate>Wed, 18 Feb 2026 09:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/react/react-tutorial-03/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;겉은 HTML, 속은 JS&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/react/html_js.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요, &lt;strong&gt;Qooing&lt;/strong&gt;입니다! 👋&lt;/p&gt;
+&lt;p&gt;지난 시간에 우리는 Vite로 개발 환경을 구축하고 서버를 띄우는 데 성공했습니다.
+그런데 &lt;code&gt;App.jsx&lt;/code&gt; 파일을 보면서 혹시 이런 생각 안 드셨나요?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;분명 자바스크립트 파일(.jsx)인데, 왜 안에 HTML 태그가 들어있지? 이거 에러 안 나나?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이 이상한 문법의 정체는 바로 &lt;strong&gt;JSX(JavaScript XML)&lt;/strong&gt; 입니다. 리액트 개발의 90%는 이 JSX를 얼마나 잘 다루느냐에 달려 있다고 해도 과언이 아닙니다.&lt;/p&gt;
+&lt;p&gt;오늘은 리액트가 뱉어내는 빨간 에러 줄에 겁먹지 않도록, &lt;strong&gt;절대 어기면 안 되는 JSX의 핵심 규칙 4가지&lt;/strong&gt;를 파헤쳐 보겠습니다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[React 정복기 #02] 5분 완성! Vite로 가장 빠른 리액트 개발 환경 구축하기</title>
       <link>http://localhost:1313/posts/react/react-tutorial-02/</link>
