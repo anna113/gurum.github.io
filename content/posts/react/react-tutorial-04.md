@@ -193,6 +193,7 @@ function Header({ title }) { // props 대신 { title } 바로 받기
 }
 
 ```
+[구조 분해 할당(Destructuring) 더 알아보기]({{< relref "/posts/javascript/destructuring.md" >}})
 
 ---
 

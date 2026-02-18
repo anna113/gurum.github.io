@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Destructuring on Qooing Tech Blog</title>
+    <link>http://localhost:1313/tags/destructuring/</link>
+    <description>Recent content in Destructuring on Qooing Tech Blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 17 Feb 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/destructuring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>자바스크립트 구조 분해 할당(Destructuring Assignment) 완벽 가이드</title>
+      <link>http://localhost:1313/posts/javascript/desctructuring/</link>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/desctructuring/</guid>
+      <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
+    </item>
+  </channel>
+</rss>

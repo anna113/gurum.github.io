@@ -6,13 +6,27 @@
     <description>Recent content in Categories on Qooing Tech Blog</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 13 Feb 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 11:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>React Tutorial</title>
       <link>http://localhost:1313/categories/react-tutorial/</link>
-      <pubDate>Fri, 13 Feb 2026 09:00:00 +0900</pubDate>
+      <pubDate>Wed, 18 Feb 2026 11:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/react-tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/categories/development/</link>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/categories/javascript/</link>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/javascript/</guid>
       <description></description>
     </item>
   </channel>
