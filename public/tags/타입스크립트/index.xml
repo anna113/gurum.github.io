@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>타입스크립트 on Qooing Tech Blog</title>
+    <link>http://localhost:1313/tags/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/</link>
+    <description>Recent content in 타입스크립트 on Qooing Tech Blog</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 11 Feb 2026 12:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TypeScript] 구조 분해 할당 시 변수 이름 변경과 타입 지정 동시에 하는 방법</title>
+      <link>http://localhost:1313/posts/javascript/destructuring_typescript/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring_typescript/</guid>
+      <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
+    </item>
+  </channel>
+</rss>

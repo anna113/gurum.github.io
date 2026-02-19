@@ -16,17 +16,24 @@
       <description></description>
     </item>
     <item>
-      <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      <title>TypeScript</title>
+      <link>http://localhost:1313/categories/typescript/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
       <link>http://localhost:1313/categories/javascript/</link>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
+      <pubDate>Wed, 11 Feb 2026 11:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/categories/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/development/</guid>
       <description></description>
     </item>
   </channel>

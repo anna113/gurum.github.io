@@ -6,13 +6,20 @@
     <description>Recent content in Development on Qooing Tech Blog</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 17 Feb 2026 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 10:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>자바스크립트 구조 분해 할당(Destructuring Assignment) 완벽 가이드</title>
-      <link>http://localhost:1313/posts/javascript/desctructuring/</link>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/javascript/desctructuring/</guid>
+      <title>[JavaScript/ES6] 코드를 깔끔하게! 구조 분해 할당(Destructuring Assignment) 완벽 정리</title>
+      <link>http://localhost:1313/posts/javascript/destructuring/</link>
+      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring/</guid>
+      <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
+    </item>
+    <item>
+      <title>[JavaScript/ES6] 코드를 깔끔하게! 구조 분해 할당(Destructuring Assignment) 완벽 정리</title>
+      <link>http://localhost:1313/posts/javascript/destructuring_name_change/</link>
+      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring_name_change/</guid>
       <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
     </item>
   </channel>

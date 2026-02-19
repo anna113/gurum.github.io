@@ -2,7 +2,7 @@
 title: "[JavaScript/ES6] 코드를 깔끔하게! 구조 분해 할당(Destructuring Assignment) 완벽 정리"
 date: 2026-02-11T10:00:00+09:00
 draft: false
-categories: ["Development", "JavaScript"]
+categories: ["JavaScript"]
 tags: ["ES6", "Frontend", "Destructuring", "Web"]
 description: "코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다."
 ---
