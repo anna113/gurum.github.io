@@ -6,20 +6,45 @@
     <description>Recent content in Destructuring on Qooing Tech Blog</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 11 Feb 2026 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 12:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/destructuring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TypeScript] 구조 분해 할당 시 변수 이름 변경과 타입 지정 동시에 하는 방법</title>
+      <link>http://localhost:1313/posts/javascript/destructuring_typescript_renaming/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring_typescript_renaming/</guid>
+      <description>&lt;p&gt;안녕하세요! 이전 포스팅에서는 JavaScript의 구조 분해 할당(Destructuring) 시 변수 이름을 변경하는 방법에 대해 알아보았습니다. 코드를 깔끔하게 만들어주는 유용한 문법이지만, 이를 &lt;strong&gt;TypeScript(타입스크립트)&lt;/strong&gt; 환경으로 가져오면 많은 개발자들이 헷갈려 하는 구간이 생깁니다.&lt;/p&gt;
+&lt;p&gt;바로 자바스크립트의 &lt;strong&gt;&amp;lsquo;이름 변경&amp;rsquo;&lt;/strong&gt; 문법인 콜론(&lt;code&gt;:&lt;/code&gt;)과 타입스크립트의 &lt;strong&gt;&amp;lsquo;타입 지정&amp;rsquo;&lt;/strong&gt; 문법인 콜론(&lt;code&gt;:&lt;/code&gt;)이 똑같이 생겼기 때문인데요.&lt;/p&gt;
+&lt;p&gt;오늘은 TypeScript 환경에서 에러 없이 객체의 구조 분해 할당, 이름 변경, 그리고 타입 지정까지 한 번에 처리하는 올바른 방법을 정리해 보겠습니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-흔히-하는-실수-문법의-충돌&#34;&gt;🚨 흔히 하는 실수: 문법의 충돌&lt;/h3&gt;
+&lt;p&gt;API 응답으로 스네이크 케이스(&lt;code&gt;user_id&lt;/code&gt;) 데이터를 받아 카멜 케이스(&lt;code&gt;userId&lt;/code&gt;)로 변환하면서, 동시에 &lt;code&gt;number&lt;/code&gt;라는 타입을 지정하고 싶다고 가정해 봅시다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[TypeScript] 구조 분해 할당(Destructuring) 완벽 정리: 올바른 타입 지정 방법</title>
+      <link>http://localhost:1313/posts/javascript/destructuring_typescript/</link>
+      <pubDate>Wed, 11 Feb 2026 11:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring_typescript/</guid>
+      <description>&lt;p&gt;안녕하세요! TypeScript에서 &lt;strong&gt;구조 분해 할당(Destructuring)&lt;/strong&gt; 을 사용할 때, JavaScript처럼 편하게 쓰려다가 빨간색 에러 줄을 마주친 경험이 한 번쯤은 있으실 겁니다.&lt;/p&gt;
+&lt;p&gt;자바스크립트에서는 단순히 값을 꺼내오는 용도였지만, 타입스크립트에서는 &lt;strong&gt;&amp;lsquo;이 값을 꺼낼 건데, 이 값들의 타입은 이거야&amp;rsquo;&lt;/strong&gt; 라고 컴파일러에게 명확히 알려주어야 합니다. 실무에서 가장 자주 쓰이는 객체, 배열, 그리고 함수 파라미터에서의 구조 분해 할당과 타입 지정 방법을 총정리해 드립니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-객체object-구조-분해-할당과-타입-지정&#34;&gt;1. 객체(Object) 구조 분해 할당과 타입 지정&lt;/h3&gt;
+&lt;p&gt;TypeScript에서 객체를 구조 분해 할당할 때 가장 많이 하는 실수는 &lt;strong&gt;&amp;lsquo;이름 변경&amp;rsquo; 문법(&lt;code&gt;:&lt;/code&gt;)을 &amp;lsquo;타입 지정&amp;rsquo;으로 오해하는 것&lt;/strong&gt;입니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[JavaScript/ES6] 구조 분해 할당(Destructuring) 시 변수 이름 변경하는 방법</title>
+      <link>http://localhost:1313/posts/javascript/destructuring_name_change/</link>
+      <pubDate>Wed, 11 Feb 2026 11:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/javascript/destructuring_name_change/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;구조분해할당-Destructuring 이름 변경&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/javascript/destructuring_renaming.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요! 자바스크립트로 개발을 하다 보면 객체에서 필요한 값만 쏙쏙 뽑아 쓰는 &lt;strong&gt;구조 분해 할당(Destructuring Assignment)&lt;/strong&gt; 을 숨 쉬듯이 사용하게 됩니다. 코드를 훨씬 간결하고 가독성 좋게 만들어주는 아주 고마운 문법이죠.&lt;/p&gt;
+&lt;p&gt;하지만 가끔 객체의 키(Key) 이름 그대로 변수를 생성하고 싶지 않을 때가 있습니다. 변수 이름이 겹치거나, 서버에서 온 데이터의 키 이름이 마음에 들지 않을 때 말이죠. 오늘은 구조 분해 할당을 하면서 &lt;strong&gt;내가 원하는 이름으로 변수명을 변경하는 방법&lt;/strong&gt;과 실무에서 자주 쓰이는 활용 사례를 정리해 보겠습니다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[JavaScript/ES6] 코드를 깔끔하게! 구조 분해 할당(Destructuring Assignment) 완벽 정리</title>
       <link>http://localhost:1313/posts/javascript/destructuring/</link>
       <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/javascript/destructuring/</guid>
-      <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
-    </item>
-    <item>
-      <title>[JavaScript/ES6] 코드를 깔끔하게! 구조 분해 할당(Destructuring Assignment) 완벽 정리</title>
-      <link>http://localhost:1313/posts/javascript/destructuring_name_change/</link>
-      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/javascript/destructuring_name_change/</guid>
       <description>코드를 간결하게 만들어주는 자바스크립트 ES6 핵심 문법, 구조 분해 할당의 개념과 실전 활용법을 정리했습니다.</description>
     </item>
   </channel>

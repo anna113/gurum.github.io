@@ -60,22 +60,36 @@
     <item>
       <title>Destructuring</title>
       <link>http://localhost:1313/tags/destructuring/</link>
-      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
       <guid>http://localhost:1313/tags/destructuring/</guid>
       <description></description>
     </item>
     <item>
       <title>ES6</title>
       <link>http://localhost:1313/tags/es6/</link>
-      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
       <guid>http://localhost:1313/tags/es6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TypeScript</title>
+      <link>http://localhost:1313/tags/typescript/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
       <link>http://localhost:1313/tags/web/</link>
-      <pubDate>Wed, 11 Feb 2026 10:00:00 +0900</pubDate>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
       <guid>http://localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>타입스크립트</title>
+      <link>http://localhost:1313/tags/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/</link>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/</guid>
       <description></description>
     </item>
   </channel>
