@@ -15,6 +15,7 @@ outputs:
 
 params:
   # 테마 기본 설정
+  author: "Qooing"
   defaultTheme: auto
   ShowReadingTime: true # 읽는 시간 표시
   ShowShareButtons: true # 공유 버튼
